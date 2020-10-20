@@ -1,0 +1,44 @@
+/* TODO: design your profile with CSS */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(240, 240, 240);
+}
+h1, h2 {
+    font-family: 'Poppins', sans-serif;
+    color: midnightblue;
+}
+ul {
+    font-family: 'Poppins', sans-serif;
+    color: slategrey;
+}
+h3 {
+    font-family: 'Poppins', sans-serif;
+    color: darkslateblue;
+}
+h4  {
+    font-family: 'Poppins', sans-serif;
+    color: #6a5acd;
+}
+.profile{
+    border-radius: 50%;
+    width: 150px;
+}
+
+.card {
+    width: 600px;
+    background-color: white;
+    padding: 16px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+    border-radius: 8px;
+}
+
+ul {
+    padding: 0
+}
+
+li {
+    list-style-type: none;
+}
